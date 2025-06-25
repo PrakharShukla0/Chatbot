@@ -5,3 +5,4 @@ sentence-transformers
 faiss-cpu
 python-dotenv
 PyPDF2
+tokenizers==0.13.3
