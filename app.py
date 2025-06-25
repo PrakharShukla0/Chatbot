@@ -1,5 +1,4 @@
 import os
-os.system("pip install langchain-community==0.0.21")
 import streamlit as st
 
 from langchain_community.embeddings import HuggingFaceEmbeddings
